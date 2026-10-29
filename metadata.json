@@ -1,0 +1,6 @@
+{
+  "name": "Digital Literacy & Community Training Portal",
+  "description": "Interactive learning platform for youth digital literacy and employment training with structured modules, exercises, file repository database, and Cloudflare deployment readiness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
